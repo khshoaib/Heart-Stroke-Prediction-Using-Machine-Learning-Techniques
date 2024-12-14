@@ -1,0 +1,9 @@
+# Dataset
+![image alt](https://github.com/khshoaib/Heart-Stroke-Prediction-Using-Machine-Learning-Techniques/blob/main/Images/1.png)
+# Details
+![image alt](https://github.com/khshoaib/Heart-Stroke-Prediction-Using-Machine-Learning-Techniques/blob/main/Images/2.png)
+![image alt](https://github.com/khshoaib/Heart-Stroke-Prediction-Using-Machine-Learning-Techniques/blob/main/Images/3.png)
+![image alt](https://github.com/khshoaib/Heart-Stroke-Prediction-Using-Machine-Learning-Techniques/blob/main/Images/4.png)
+![image alt](https://github.com/khshoaib/Heart-Stroke-Prediction-Using-Machine-Learning-Techniques/blob/main/Images/5.png)
+![image alt](https://github.com/khshoaib/Heart-Stroke-Prediction-Using-Machine-Learning-Techniques/blob/main/Images/6.png)
+![image alt](https://github.com/khshoaib/Heart-Stroke-Prediction-Using-Machine-Learning-Techniques/blob/main/Images/7.png)
